@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningConsole", "LearningConsole\LearningConsole.csproj", "{E70DA87D-DD00-4A59-9451-B124A08A8FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70DA87D-DD00-4A59-9451-B124A08A8FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70DA87D-DD00-4A59-9451-B124A08A8FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70DA87D-DD00-4A59-9451-B124A08A8FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70DA87D-DD00-4A59-9451-B124A08A8FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

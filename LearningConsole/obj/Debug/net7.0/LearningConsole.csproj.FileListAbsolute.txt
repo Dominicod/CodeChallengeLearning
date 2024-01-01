@@ -1,0 +1,15 @@
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/bin/Debug/net7.0/LearningConsole
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/bin/Debug/net7.0/LearningConsole.deps.json
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/bin/Debug/net7.0/LearningConsole.runtimeconfig.json
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/bin/Debug/net7.0/LearningConsole.dll
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/bin/Debug/net7.0/LearningConsole.pdb
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.csproj.AssemblyReference.cache
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.AssemblyInfoInputs.cache
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.AssemblyInfo.cs
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.csproj.CoreCompileInputs.cache
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.dll
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/refint/LearningConsole.dll
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.pdb
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/LearningConsole.genruntimeconfig.cache
+/Users/dominicodonnell/Dev/STANDEX/LearningConsole/LearningConsole/obj/Debug/net7.0/ref/LearningConsole.dll
